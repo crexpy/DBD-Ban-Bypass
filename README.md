@@ -1,3 +1,5 @@
+# PATCHED - You can still enter the game but cannot play
+
 ## Dead by Daylight Ban Bypass
 This program allows you to bypass Dead by Daylight bans on non EAC banned accounts.
 
